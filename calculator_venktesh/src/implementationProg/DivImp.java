@@ -19,30 +19,6 @@ public class DivImp {
 		public static void main(String[] args) {
 			
 			Scanner sc = new Scanner(System.in);
-//			Subtraction sb = new Subtraction();
-//			sb.sub(8,2);
-			
-			
-//			Addition.add(5,5);
-			
-//			Product.pro(4,4)
-
-//			Division dv = new Division();
-//			dv.div(8,2);
-			
-			
-//			Square.getSqr(6);
-			
-//			Cube.getCube(2);
-			
-//			Factorial ft = new Factorial();
-//			ft.getFact(5);
-			
-//			Power pw = new Power();
-//			pw.getPower(4, 3);
-			
-//			Factor.getFactors(5);
-			
 			
 			System.out.println(" *** Welcome to My Calculator ***");
 			System.out.println();
